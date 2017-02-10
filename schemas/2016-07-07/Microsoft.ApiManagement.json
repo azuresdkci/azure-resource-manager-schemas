@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "http://schema.management.azure.com/schemas/2016-07-07/Microsoft.ApiManagement.json#",
   "$schema": "http://json-schema.org/draft-04/schema#",
   "title": "Microsoft.ApiManagement",
@@ -21,7 +21,7 @@
         },
         "location": {
           "type": "string",
-          "description": "Api Management service data center location."
+          "description": "Api Management service data center location. - Testing Version"
         },
         "tags": {
           "oneOf": [
